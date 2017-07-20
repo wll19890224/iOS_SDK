@@ -1,0 +1,6 @@
+framework module rongPaySDK {
+  umbrella header "rongPaySDK.h"
+
+  export *
+  module * { export * }
+}
