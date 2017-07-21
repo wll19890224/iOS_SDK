@@ -12,9 +12,11 @@ Pod::Spec.new do |s|
 
   s.ios.deployment_target = "9.0"
 
-  s.source_files = "rongPaySDK/*"
+  s.source_files = "rongPaySDK/rongPaySDK.framework/**"
 
   s.vendored_frameworks = "rongPaySDK/rongPaySDK.framework"
+
+  s.resources = "rongPaySDK/RongPayBundle.bundle"
 
   s.frameworks = "UIKit","AVFoundation","Foundation"
 
