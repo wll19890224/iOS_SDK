@@ -20,7 +20,7 @@
  
  **步骤一**
  
- 下载[rongPaySDK](https://github.com/Junior-Young/rongPaySDK)，将 **rongPaySDK.framework** 和 **RongPayBundle.bundle**导入到项目中。
+ 下载[rongPaySDK](https://github.com/wll19890224/iOS_SDK)，将 **rongPaySDK.framework** 和 **RongPayBundle.bundle**导入到项目中。
  
  **步骤二**
  
