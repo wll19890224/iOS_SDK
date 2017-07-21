@@ -2,7 +2,7 @@
 
 Pod::Spec.new do |s|
   s.name             = "rongPaySDK"
-  s.version          = "0.1.3"
+  s.version          = "0.1.4"
   s.summary          = "融数钱包"
   s.homepage         = "https://github.com/wll19890224/iOS_SDK.git"
   s.license          = { :type => "MIT", :file => "LICENSE" }
