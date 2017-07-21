@@ -2,12 +2,12 @@
 
 Pod::Spec.new do |s|
   s.name             = "rongPaySDK"
-  s.version          = "0.1.2"
+  s.version          = "0.1.3"
   s.summary          = "融数钱包"
-  s.homepage         = "https://github.com/Junior-Young/rongPaySDK.git"
+  s.homepage         = "https://github.com/wll19890224/iOS_SDK.git"
   s.license          = { :type => "MIT", :file => "LICENSE" }
   s.author           = { "YangJunjie" => "327762208@qq.com" }
-  s.source           = { :git => "https://github.com/Junior-Young/rongPaySDK.git", :tag => "0.1.2" }
+  s.source           = { :git => "https://github.com/wll19890224/iOS_SDK.git", :tag => "0.1.3" }
   # s.social_media_url = "http://www.rongwallet.com"
 
   s.ios.deployment_target = "9.0"
